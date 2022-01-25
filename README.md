@@ -1,5 +1,8 @@
 # Goo Gods: Angry Planet
 
+## Demonstration
+A demostration of the general game loop and how it appears in action can be seen [on Youtube](https://youtu.be/63PGYSQRtuU).  This a demonstration of a slightly outdated version for submission as a final project for CS50's Intro to game development, but most changes were between version are cosmetic or otherwise are refinements to the underlying scripting.
+
 ## To Play
 Fire up Unity and create your own build.  At this point it's somewhat playable, but is on indefinite hiatus.  This readme is more for demonstration purposes and
 general information about Angry Planet.
