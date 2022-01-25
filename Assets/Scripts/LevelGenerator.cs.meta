@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b0cae3eea9a1cb74a8e49c39a191fee8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TileMap: {instanceID: 0}
+  - PlantTile: {fileID: 8521030611913499106, guid: 114fd9de2c9703844baa7723bb86ca99, type: 3}
+  - monsterPrefab: {fileID: 8166751137175009839, guid: a28cdef01c2d2f640821df3a679448e7, type: 3}
+  - TestTile: {fileID: 11400000, guid: baf9e52745a56e047bf59d226e3885dd, type: 2}
+  - ItemPrefab: {fileID: 2566887967193276661, guid: 8bd8f6b1978f6024691ec356b37715e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6276 @@
+fileFormatVersion: 2
+guid: fc9654f8cb44a534f9418cbc1f2dd885
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5200931553324122655
+    second: PlayerHeads_0
+  - first:
+      213: 6557390484400468716
+    second: PlayerHeads_1
+  - first:
+      213: -7910324391653772629
+    second: PlayerHeads_2
+  - first:
+      213: 1740397155819082222
+    second: PlayerHeads_3
+  - first:
+      213: -6445025823639743755
+    second: PlayerHeads_4
+  - first:
+      213: -1305625541225535156
+    second: PlayerHeads_5
+  - first:
+      213: -5806286026568429659
+    second: PlayerHeads_6
+  - first:
+      213: -8182593945471614680
+    second: PlayerHeads_7
+  - first:
+      213: 8253466935054434463
+    second: PlayerHeads_8
+  - first:
+      213: 2217832970418068618
+    second: PlayerHeads_9
+  - first:
+      213: 6336292404712915455
+    second: PlayerHeads_10
+  - first:
+      213: -8663781619552945439
+    second: PlayerHeads_11
+  - first:
+      213: 6084501051840139798
+    second: PlayerHeads_12
+  - first:
+      213: 1817163054789495053
+    second: PlayerHeads_13
+  - first:
+      213: -815853118237161576
+    second: PlayerHeads_14
+  - first:
+      213: 8171610580010229188
+    second: PlayerHeads_15
+  - first:
+      213: -3301014383391657108
+    second: PlayerHeads_16
+  - first:
+      213: -6516518536709022457
+    second: PlayerHeads_17
+  - first:
+      213: -4347894091475817045
+    second: PlayerHeads_18
+  - first:
+      213: 4554181779103976224
+    second: PlayerHeads_19
+  - first:
+      213: -8537541668636968748
+    second: PlayerHeads_20
+  - first:
+      213: -1794142619427199308
+    second: PlayerHeads_21
+  - first:
+      213: -230737647089790216
+    second: PlayerHeads_22
+  - first:
+      213: -8206013149145015402
+    second: PlayerHeads_23
+  - first:
+      213: -6253241286111778593
+    second: PlayerHeads_24
+  - first:
+      213: -4101884942677459947
+    second: PlayerHeads_25
+  - first:
+      213: 6202119186081338979
+    second: PlayerHeads_26
+  - first:
+      213: -3097747487780053307
+    second: PlayerHeads_27
+  - first:
+      213: 1980309229170959383
+    second: PlayerHeads_28
+  - first:
+      213: 8668646139117515001
+    second: PlayerHeads_29
+  - first:
+      213: 6896257374064682974
+    second: PlayerHeads_30
+  - first:
+      213: 2700612323825099223
+    second: PlayerHeads_31
+  - first:
+      213: -6668107741947090085
+    second: PlayerHeads_32
+  - first:
+      213: 6805079828602045415
+    second: PlayerHeads_33
+  - first:
+      213: 797595427490523903
+    second: PlayerHeads_34
+  - first:
+      213: 3147886177570608985
+    second: PlayerHeads_35
+  - first:
+      213: -4872202922255444697
+    second: PlayerHeads_36
+  - first:
+      213: -3743700974089269972
+    second: PlayerHeads_37
+  - first:
+      213: 723402711552224993
+    second: PlayerHeads_38
+  - first:
+      213: 1232228613464311175
+    second: PlayerHeads_39
+  - first:
+      213: 3719991537425809924
+    second: PlayerHeads_40
+  - first:
+      213: -3895020351694910891
+    second: PlayerHeads_41
+  - first:
+      213: -4492111548286968754
+    second: PlayerHeads_42
+  - first:
+      213: -1586664388575966955
+    second: PlayerHeads_43
+  - first:
+      213: 8706876869805291954
+    second: PlayerHeads_44
+  - first:
+      213: -5612163738731182116
+    second: PlayerHeads_45
+  - first:
+      213: -3132303219797484789
+    second: PlayerHeads_46
+  - first:
+      213: 5456869433613602712
+    second: PlayerHeads_47
+  - first:
+      213: -6183470387719037584
+    second: PlayerHeads_48
+  - first:
+      213: 9177025424007357892
+    second: PlayerHeads_49
+  - first:
+      213: 7609130983139863211
+    second: PlayerHeads_50
+  - first:
+      213: 8276377060685320351
+    second: PlayerHeads_51
+  - first:
+      213: -3850428928941946276
+    second: PlayerHeads_52
+  - first:
+      213: 4664212568126019757
+    second: PlayerHeads_53
+  - first:
+      213: 7358144186150885798
+    second: PlayerHeads_54
+  - first:
+      213: 8674161774010728502
+    second: PlayerHeads_55
+  - first:
+      213: 6035885416448110260
+    second: PlayerHeads_56
+  - first:
+      213: 1030986540159819145
+    second: PlayerHeads_57
+  - first:
+      213: 2053230253452009081
+    second: PlayerHeads_58
+  - first:
+      213: -7919156815522054642
+    second: PlayerHeads_59
+  - first:
+      213: -6118079480665284866
+    second: PlayerHeads_60
+  - first:
+      213: 3194985228269406419
+    second: PlayerHeads_61
+  - first:
+      213: 5394858932144592106
+    second: PlayerHeads_62
+  - first:
+      213: 8450447970806980788
+    second: PlayerHeads_63
+  - first:
+      213: -20120355791368829
+    second: PlayerHeads_64
+  - first:
+      213: -6365872607409585
+    second: PlayerHeads_65
+  - first:
+      213: 3798941348118073362
+    second: PlayerHeads_66
+  - first:
+      213: -1885709142049926406
+    second: PlayerHeads_67
+  - first:
+      213: 5680127052060587049
+    second: PlayerHeads_68
+  - first:
+      213: -8161093552618271864
+    second: PlayerHeads_69
+  - first:
+      213: -4924948734622974880
+    second: PlayerHeads_70
+  - first:
+      213: 2017354650085243737
+    second: PlayerHeads_71
+  - first:
+      213: -3982394906854250882
+    second: PlayerHeads_72
+  - first:
+      213: 1990096161023726864
+    second: PlayerHeads_73
+  - first:
+      213: -7576622671604487112
+    second: PlayerHeads_74
+  - first:
+      213: 463831790504820582
+    second: PlayerHeads_75
+  - first:
+      213: 5365007261074131034
+    second: PlayerHeads_76
+  - first:
+      213: -5104616303305633841
+    second: PlayerHeads_77
+  - first:
+      213: -3074328911207516322
+    second: PlayerHeads_78
+  - first:
+      213: 8043583936229039311
+    second: PlayerHeads_79
+  - first:
+      213: 7951934007791922805
+    second: PlayerHeads_80
+  - first:
+      213: 7368761667563649720
+    second: PlayerHeads_81
+  - first:
+      213: 1838030693452706545
+    second: PlayerHeads_82
+  - first:
+      213: -1621941272106301794
+    second: PlayerHeads_83
+  - first:
+      213: -3572153513523894346
+    second: PlayerHeads_84
+  - first:
+      213: -2635131724769416657
+    second: PlayerHeads_85
+  - first:
+      213: -5421657222822641097
+    second: PlayerHeads_86
+  - first:
+      213: 4664982942007516884
+    second: PlayerHeads_87
+  - first:
+      213: -8871101319092986356
+    second: PlayerHeads_88
+  - first:
+      213: 7818451049962420428
+    second: PlayerHeads_89
+  - first:
+      213: -6557416578731057866
+    second: PlayerHeads_90
+  - first:
+      213: 494003801692435940
+    second: PlayerHeads_91
+  - first:
+      213: 306171138946742761
+    second: PlayerHeads_92
+  - first:
+      213: -1364264128605041922
+    second: PlayerHeads_93
+  - first:
+      213: 7643335132599456221
+    second: PlayerHeads_94
+  - first:
+      213: 2627750594015539030
+    second: PlayerHeads_95
+  - first:
+      213: 2835437689023967281
+    second: PlayerHeads_96
+  - first:
+      213: -5611033225515092401
+    second: PlayerHeads_97
+  - first:
+      213: -5924163730053532520
+    second: PlayerHeads_98
+  - first:
+      213: 4436384072685143095
+    second: PlayerHeads_99
+  - first:
+      213: -7878527039423631720
+    second: PlayerHeads_100
+  - first:
+      213: -8709008793598790877
+    second: PlayerHeads_101
+  - first:
+      213: -2767305182822526581
+    second: PlayerHeads_102
+  - first:
+      213: 268177501313070086
+    second: PlayerHeads_103
+  - first:
+      213: 4710333313309426599
+    second: PlayerHeads_104
+  - first:
+      213: 96774304445060238
+    second: PlayerHeads_105
+  - first:
+      213: -6555337605693699642
+    second: PlayerHeads_106
+  - first:
+      213: -7240496883856933828
+    second: PlayerHeads_107
+  - first:
+      213: 4242772484119181307
+    second: PlayerHeads_108
+  - first:
+      213: 2034356071727661526
+    second: PlayerHeads_109
+  - first:
+      213: -4649691678089683460
+    second: PlayerHeads_110
+  - first:
+      213: 8403900427834064666
+    second: PlayerHeads_111
+  - first:
+      213: 4812604666925459890
+    second: PlayerHeads_112
+  - first:
+      213: -837078367852973972
+    second: PlayerHeads_113
+  - first:
+      213: -7819715580847963994
+    second: PlayerHeads_114
+  - first:
+      213: -7929883069378123147
+    second: PlayerHeads_115
+  - first:
+      213: 3231492155009155277
+    second: PlayerHeads_116
+  - first:
+      213: -1094918025478809133
+    second: PlayerHeads_117
+  - first:
+      213: 5233128879395495546
+    second: PlayerHeads_118
+  - first:
+      213: -2550158995876870888
+    second: PlayerHeads_119
+  - first:
+      213: -1166656194144379243
+    second: PlayerHeads_120
+  - first:
+      213: -2007882485355906382
+    second: PlayerHeads_121
+  - first:
+      213: -5176284799010203588
+    second: PlayerHeads_122
+  - first:
+      213: 7137563004853103420
+    second: PlayerHeads_123
+  - first:
+      213: 5144194021814624508
+    second: PlayerHeads_124
+  - first:
+      213: 3769151216515274037
+    second: PlayerHeads_125
+  - first:
+      213: -1480669833589086077
+    second: PlayerHeads_126
+  - first:
+      213: -8270871917349442930
+    second: PlayerHeads_127
+  - first:
+      213: -664364385285798215
+    second: PlayerHeads_128
+  - first:
+      213: 4522713665781115337
+    second: PlayerHeads_129
+  - first:
+      213: -2921111695878937500
+    second: PlayerHeads_130
+  - first:
+      213: 4195878398346522253
+    second: PlayerHeads_131
+  - first:
+      213: 2954802737015019220
+    second: PlayerHeads_132
+  - first:
+      213: 4005206868928682247
+    second: PlayerHeads_133
+  - first:
+      213: 7344442931443256642
+    second: PlayerHeads_134
+  - first:
+      213: -275646501939910612
+    second: PlayerHeads_135
+  - first:
+      213: 817155774586787247
+    second: PlayerHeads_136
+  - first:
+      213: -1524550072062196608
+    second: PlayerHeads_137
+  - first:
+      213: -6804505800600697325
+    second: PlayerHeads_138
+  - first:
+      213: 5865124223942287820
+    second: PlayerHeads_139
+  - first:
+      213: -8491462796318408976
+    second: PlayerHeads_140
+  - first:
+      213: -9221760739761032437
+    second: PlayerHeads_141
+  - first:
+      213: -3068249756265351567
+    second: PlayerHeads_142
+  - first:
+      213: -4043311772099668447
+    second: PlayerHeads_143
+  - first:
+      213: -4369353224960588911
+    second: PlayerHeads_144
+  - first:
+      213: -3215648240977341442
+    second: PlayerHeads_145
+  - first:
+      213: 8798953227269972524
+    second: PlayerHeads_146
+  - first:
+      213: 955657461249097688
+    second: PlayerHeads_147
+  - first:
+      213: 7813738551151594590
+    second: PlayerHeads_148
+  - first:
+      213: 6221714498285731526
+    second: PlayerHeads_149
+  - first:
+      213: -4098409512256455286
+    second: PlayerHeads_150
+  - first:
+      213: -6684703232879681599
+    second: PlayerHeads_151
+  - first:
+      213: -7150907746562989499
+    second: PlayerHeads_152
+  - first:
+      213: -1876972074650198889
+    second: PlayerHeads_153
+  - first:
+      213: -2303661116405773968
+    second: PlayerHeads_154
+  - first:
+      213: -953412197574057166
+    second: PlayerHeads_155
+  - first:
+      213: -3693555657033251617
+    second: PlayerHeads_156
+  - first:
+      213: 4273876625388918964
+    second: PlayerHeads_157
+  - first:
+      213: -4952721982314654542
+    second: PlayerHeads_158
+  - first:
+      213: 4273372924162926931
+    second: PlayerHeads_159
+  - first:
+      213: 5101651401808893094
+    second: PlayerHeads_160
+  - first:
+      213: 8086917230470751476
+    second: PlayerHeads_161
+  - first:
+      213: 8485353417782659170
+    second: PlayerHeads_162
+  - first:
+      213: 8703285258676658172
+    second: PlayerHeads_163
+  - first:
+      213: -6372746479522544059
+    second: PlayerHeads_164
+  - first:
+      213: -7704499640816799309
+    second: PlayerHeads_165
+  - first:
+      213: -6235154185269544790
+    second: PlayerHeads_166
+  - first:
+      213: -2181618034257160373
+    second: PlayerHeads_167
+  - first:
+      213: 2967521719584205376
+    second: PlayerHeads_168
+  - first:
+      213: -8796534329440590610
+    second: PlayerHeads_169
+  - first:
+      213: 3189675493478884498
+    second: PlayerHeads_170
+  - first:
+      213: 6871037301786292400
+    second: PlayerHeads_171
+  - first:
+      213: 7841760966130213056
+    second: PlayerHeads_172
+  - first:
+      213: 1286275787914160988
+    second: PlayerHeads_173
+  - first:
+      213: 5978648903459255873
+    second: PlayerHeads_174
+  - first:
+      213: -336856697902244171
+    second: PlayerHeads_175
+  - first:
+      213: 6010480918902731306
+    second: PlayerHeads_176
+  - first:
+      213: 3806887099088621554
+    second: PlayerHeads_177
+  - first:
+      213: -2477863466464351872
+    second: PlayerHeads_178
+  - first:
+      213: 2384092914694389589
+    second: PlayerHeads_179
+  - first:
+      213: -673034667051526684
+    second: PlayerHeads_180
+  - first:
+      213: 7328762287588165200
+    second: PlayerHeads_181
+  - first:
+      213: -9220185039093568538
+    second: PlayerHeads_182
+  - first:
+      213: 449321542392630844
+    second: PlayerHeads_183
+  - first:
+      213: -9073558975076419827
+    second: PlayerHeads_184
+  - first:
+      213: -7089790159502355386
+    second: PlayerHeads_185
+  - first:
+      213: -3420104897969837710
+    second: PlayerHeads_186
+  - first:
+      213: 722525701285673606
+    second: PlayerHeads_187
+  - first:
+      213: -8746856718097371134
+    second: PlayerHeads_188
+  - first:
+      213: 1029618773920416733
+    second: PlayerHeads_189
+  - first:
+      213: -2410039359868149516
+    second: PlayerHeads_190
+  - first:
+      213: 3899994558586080829
+    second: PlayerHeads_191
+  - first:
+      213: -4112934761140566504
+    second: PlayerHeads_192
+  - first:
+      213: -2009186423899151542
+    second: PlayerHeads_193
+  - first:
+      213: -1106186483599102174
+    second: PlayerHeads_194
+  - first:
+      213: -6782801264812977994
+    second: PlayerHeads_195
+  - first:
+      213: -154908263539862644
+    second: PlayerHeads_196
+  - first:
+      213: 2419255166784531753
+    second: PlayerHeads_197
+  - first:
+      213: 8017557072240857740
+    second: PlayerHeads_198
+  - first:
+      213: 2979795426993467797
+    second: PlayerHeads_199
+  - first:
+      213: -363549713755955700
+    second: PlayerHeads_200
+  - first:
+      213: -1786366572977175775
+    second: PlayerHeads_201
+  - first:
+      213: 6283036920200217620
+    second: PlayerHeads_202
+  - first:
+      213: -9138436532689609746
+    second: PlayerHeads_203
+  - first:
+      213: 1493397356395412288
+    second: PlayerHeads_204
+  - first:
+      213: -3322820371378462663
+    second: PlayerHeads_205
+  - first:
+      213: 4483632706512459330
+    second: PlayerHeads_206
+  - first:
+      213: -8625627060253020245
+    second: PlayerHeads_207
+  - first:
+      213: 6117248302436830582
+    second: PlayerHeads_208
+  - first:
+      213: -2992622268115910459
+    second: PlayerHeads_209
+  - first:
+      213: 4162075348505924479
+    second: PlayerHeads_210
+  - first:
+      213: -697010187515511293
+    second: PlayerHeads_211
+  - first:
+      213: -4590983084391725921
+    second: PlayerHeads_212
+  - first:
+      213: 9002892019345051385
+    second: PlayerHeads_213
+  - first:
+      213: 469829037409452788
+    second: PlayerHeads_214
+  - first:
+      213: -2489993624486099606
+    second: PlayerHeads_215
+  - first:
+      213: -4080469752234149213
+    second: PlayerHeads_216
+  - first:
+      213: -3780016053770226738
+    second: PlayerHeads_217
+  - first:
+      213: 4779897806449526888
+    second: PlayerHeads_218
+  - first:
+      213: 7126297499845406177
+    second: PlayerHeads_219
+  - first:
+      213: -6349649730931355521
+    second: PlayerHeads_220
+  - first:
+      213: -2493471372194202881
+    second: PlayerHeads_221
+  - first:
+      213: -4360314105383230498
+    second: PlayerHeads_222
+  - first:
+      213: -4379271503144162882
+    second: PlayerHeads_223
+  - first:
+      213: 524542651557083826
+    second: PlayerHeads_224
+  - first:
+      213: 4573299841235008941
+    second: PlayerHeads_225
+  - first:
+      213: -2113081470685187411
+    second: PlayerHeads_226
+  - first:
+      213: -1364404416707492552
+    second: PlayerHeads_227
+  - first:
+      213: 3793173748173815713
+    second: PlayerHeads_228
+  - first:
+      213: 8796905205514683010
+    second: PlayerHeads_229
+  - first:
+      213: 1569952397999966378
+    second: PlayerHeads_230
+  - first:
+      213: -7541586674563747365
+    second: PlayerHeads_231
+  - first:
+      213: 3436043669488581477
+    second: PlayerHeads_232
+  - first:
+      213: -6238971174239479504
+    second: PlayerHeads_233
+  - first:
+      213: -4072936151096456277
+    second: PlayerHeads_234
+  - first:
+      213: -7640335652415519002
+    second: PlayerHeads_235
+  - first:
+      213: 894277911917553162
+    second: PlayerHeads_236
+  - first:
+      213: 2823973969374849334
+    second: PlayerHeads_237
+  - first:
+      213: 7323331424406720310
+    second: PlayerHeads_238
+  - first:
+      213: -1796441658920586498
+    second: PlayerHeads_239
+  - first:
+      213: 6624318457753109289
+    second: PlayerHeads_240
+  - first:
+      213: -1724992076946030591
+    second: PlayerHeads_241
+  - first:
+      213: -557450019639744516
+    second: PlayerHeads_242
+  - first:
+      213: 8614632372312261721
+    second: PlayerHeads_243
+  - first:
+      213: -130665997734800882
+    second: PlayerHeads_244
+  - first:
+      213: 61508797081224267
+    second: PlayerHeads_245
+  - first:
+      213: 415241352551575869
+    second: PlayerHeads_246
+  - first:
+      213: -7150118978037332661
+    second: PlayerHeads_247
+  - first:
+      213: 4576430953614454295
+    second: PlayerHeads_248
+  - first:
+      213: -6365915304860848007
+    second: PlayerHeads_249
+  - first:
+      213: 5704867033171386660
+    second: PlayerHeads_250
+  - first:
+      213: 4267216842123236843
+    second: PlayerHeads_251
+  - first:
+      213: -3458453586971367548
+    second: PlayerHeads_252
+  - first:
+      213: 174982343485989887
+    second: PlayerHeads_253
+  - first:
+      213: 2106733977017869210
+    second: PlayerHeads_254
+  - first:
+      213: -228151501541592977
+    second: PlayerHeads_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerHeads_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12410921bb6d2840800000000000000
+      internalID: 5200931553324122655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2773c27e7800b50800000000000000
+      internalID: 6557390484400468716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27e5160e1e83290800000000000000
+      internalID: -7910324391653772629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee152b00ef1272810800000000000000
+      internalID: 1740397155819082222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2dbbd192bae86a0800000000000000
+      internalID: -6445025823639743755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49239ddc7c71ede0800000000000000
+      internalID: -1305625541225535156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af03123f9deb6fa0800000000000000
+      internalID: -5806286026568429659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82107eae826917e80800000000000000
+      internalID: -8182593945471614680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f900a5dd2743a8270800000000000000
+      internalID: 8253466935054434463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1be4065357ce10800000000000000
+      internalID: 2217832970418068618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14be7fe580fe750800000000000000
+      internalID: 6336292404712915455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eafcfa058014c780800000000000000
+      internalID: -8663781619552945439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121c66387d707450800000000000000
+      internalID: 6084501051840139798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0901bbab2cd73910800000000000000
+      internalID: 1817163054789495053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897449a59e18da4f0800000000000000
+      internalID: -815853118237161576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 195
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd55580784676170800000000000000
+      internalID: 8171610580010229188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633c7768e07032d0800000000000000
+      internalID: -3301014383391657108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd537baeca095a0800000000000000
+      internalID: -6516518536709022457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad60942c5d29a3c0800000000000000
+      internalID: -4347894091475817045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8c02f234b33f30800000000000000
+      internalID: 4554181779103976224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d83cc1161f848980800000000000000
+      internalID: -8537541668636968748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b627ac1bcce917e0800000000000000
+      internalID: -1794142619427199308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f257ec15514cccf0800000000000000
+      internalID: -230737647089790216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd607a4826e1e80800000000000000
+      internalID: -8206013149145015402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8208e6e260839a0800000000000000
+      internalID: -6253241286111778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbf2a906d2317c0800000000000000
+      internalID: -4101884942677459947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366530d1a8a521650800000000000000
+      internalID: 6202119186081338979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced20b82179205d0800000000000000
+      internalID: -3097747487780053307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a92670c87b7b10800000000000000
+      internalID: 1980309229170959383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f039ad2cb73d4870800000000000000
+      internalID: 8668646139117515001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72bc43b8d64bf50800000000000000
+      internalID: 6896257374064682974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 182
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d123ad99908a7520800000000000000
+      internalID: 2700612323825099223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b263d765f1673a0800000000000000
+      internalID: -6668107741947090085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3400c9c00807e50800000000000000
+      internalID: 6805079828602045415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6c02c0d0a11b00800000000000000
+      internalID: 797595427490523903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957557fdcc98fab20800000000000000
+      internalID: 3147886177570608985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72518599145726cb0800000000000000
+      internalID: -4872202922255444697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d002e8cc3bb0cc0800000000000000
+      internalID: -3743700974089269972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeef93feea0a0a00800000000000000
+      internalID: 723402711552224993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785cc933561c91110800000000000000
+      internalID: 1232228613464311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40289bb089010a330800000000000000
+      internalID: 3719991537425809924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ace4870ab12f9c0800000000000000
+      internalID: -3895020351694910891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdce8d850d8a1c0800000000000000
+      internalID: -4492111548286968754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ca2525290bf9e0800000000000000
+      internalID: -1586664388575966955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93fcfc16a05d870800000000000000
+      internalID: 8706876869805291954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7899b60d69d12b0800000000000000
+      internalID: -5612163738731182116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b982731d2d784d0800000000000000
+      internalID: -3132303219797484789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 169
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc93096d1babb40800000000000000
+      internalID: 5456869433613602712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1cdc9176ef2aa0800000000000000
+      internalID: -6183470387719037584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5efac40085b5f70800000000000000
+      internalID: 9177025424007357892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa68737050199960800000000000000
+      internalID: 7609130983139863211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90175926199bd270800000000000000
+      internalID: 8276377060685320351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a07812a47809ac0800000000000000
+      internalID: -3850428928941946276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da850106e9c9ab040800000000000000
+      internalID: 4664212568126019757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a911a5f6216d1660800000000000000
+      internalID: 7358144186150885798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308e200d20d06870800000000000000
+      internalID: 8674161774010728502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea9588ec5c3c350800000000000000
+      internalID: 6035885416448110260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5f6ebbccce4e00800000000000000
+      internalID: 1030986540159819145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e971b790a8e7c10800000000000000
+      internalID: 2053230253452009081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_59
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb13275d0891290800000000000000
+      internalID: -7919156815522054642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed6579027381ba0800000000000000
+      internalID: -6118079480665284866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84e99232ed65c20800000000000000
+      internalID: 3194985228269406419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae452d79d936eda40800000000000000
+      internalID: 5394858932144592106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_63
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 156
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0eed438a5064570800000000000000
+      internalID: 8450447970806980788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0d4c94a488bff0800000000000000
+      internalID: -20120355791368829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4acc88c54269eff0800000000000000
+      internalID: -6365872607409585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2101f19470d88b430800000000000000
+      internalID: 3798941348118073362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25866b68d94d5e0800000000000000
+      internalID: -1885709142049926406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247821957dd3de40800000000000000
+      internalID: 5680127052060587049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b057937a8fdbe80800000000000000
+      internalID: -8161093552618271864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb9c7283117abb0800000000000000
+      internalID: -4924948734622974880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_71
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b3058ad551ffb10800000000000000
+      internalID: 2017354650085243737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a0ad8ee0bbb8c0800000000000000
+      internalID: -3982394906854250882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01510ba1aed3e9b10800000000000000
+      internalID: 1990096161023726864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce7d5a2dd6ad690800000000000000
+      internalID: -7576622671604487112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb2945e8cdf6600800000000000000
+      internalID: 463831790504820582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5807bdcda5547a40800000000000000
+      internalID: 5365007261074131034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfccce7482c829b0800000000000000
+      internalID: -5104616303305633841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_78
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5733ccc42ac555d0800000000000000
+      internalID: -3074328911207516322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_79
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 143
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc58f729fc80af60800000000000000
+      internalID: 8043583936229039311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e29c359d1fa5e60800000000000000
+      internalID: 7951934007791922805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba75adf1b9134660800000000000000
+      internalID: 7368761667563649720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f273896d2ff18910800000000000000
+      internalID: 1838030693452706545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960f85a105bd79e0800000000000000
+      internalID: -1621941272106301794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ae373e492d6ec0800000000000000
+      internalID: -3572153513523894346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa1c868a12e6bd0800000000000000
+      internalID: -2635131724769416657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c9b32b7762c4b0800000000000000
+      internalID: -5421657222822641097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de5d9505495db040800000000000000
+      internalID: 4664982942007516884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e96f4f95483e480800000000000000
+      internalID: -8871101319092986356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83ac65ec7b08c60800000000000000
+      internalID: 7818451049962420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_90
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5a744d506ff4a0800000000000000
+      internalID: -6557416578731057866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f19d17dd0bd600800000000000000
+      internalID: 494003801692435940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_92
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9b569570dbf3400800000000000000
+      internalID: 306171138946742761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa40b2d009211de0800000000000000
+      internalID: -1364264128605041922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_94
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19ad59ec4921a60800000000000000
+      internalID: 7643335132599456221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_95
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 130
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2e9a2e35a77420800000000000000
+      internalID: 2627750594015539030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130370d2e8f795720800000000000000
+      internalID: 2835437689023967281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46324a820b9122b0800000000000000
+      internalID: -5611033225515092401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f7ee997429cda0800000000000000
+      internalID: -5924163730053532520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_99
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73449932fc3319d30800000000000000
+      internalID: 4436384072685143095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e28dd5669d9a290800000000000000
+      internalID: -7878527039423631720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237acff4a2632780800000000000000
+      internalID: -8709008793598790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8114c8199e8899d0800000000000000
+      internalID: -2767305182822526581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604748e3402c8b300800000000000000
+      internalID: 268177501313070086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a34f7921377e5140800000000000000
+      internalID: 4710333313309426599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_105
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8455d797bfc75100800000000000000
+      internalID: 96774304445060238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_106
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90ed5ed23c605a0800000000000000
+      internalID: -6555337605693699642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c72682276948b90800000000000000
+      internalID: -7240496883856933828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b9ba581b51ea30800000000000000
+      internalID: 4242772484119181307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_109
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18cf9911c7b3c10800000000000000
+      internalID: 2034356071727661526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfddf5ccd0af87fb0800000000000000
+      internalID: -4649691678089683460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_111
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 117
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7dc0d9e6a0a470800000000000000
+      internalID: 8403900427834064666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9aa70427ec9c240800000000000000
+      internalID: 4812604666925459890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b5f2d8a91264f0800000000000000
+      internalID: -837078367852973972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a048fe1c1aca7390800000000000000
+      internalID: -7819715580847963994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a255bdc5563f190800000000000000
+      internalID: -7929883069378123147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_116
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc048c96ef098dc20800000000000000
+      internalID: 3231492155009155277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d9216bd11ec0f0800000000000000
+      internalID: -1094918025478809133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_118
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed4305dfecf9840800000000000000
+      internalID: 5233128879395495546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_119
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150ef197e30c9cd0800000000000000
+      internalID: -2550158995876870888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed3056f543fcfe0800000000000000
+      internalID: -1166656194144379243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_121
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf1ad84819224e0800000000000000
+      internalID: -2007882485355906382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_122
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381eb286642a28b0800000000000000
+      internalID: -5176284799010203588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_123
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2d3a8cb7bd0360800000000000000
+      internalID: 7137563004853103420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e2fd2539d36740800000000000000
+      internalID: 5144194021814624508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_125
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535df15cf07be4430800000000000000
+      internalID: 3769151216515274037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_126
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388294b91aa937be0800000000000000
+      internalID: -1480669833589086077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_127
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae1a7efc5f73d80800000000000000
+      internalID: -8270871917349442930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68e9d8c14b7c6f0800000000000000
+      internalID: -664364385285798215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_129
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c920bddd18e3ce30800000000000000
+      internalID: 4522713665781115337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_130
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a5e9a3602677d0800000000000000
+      internalID: -2921111695878937500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_131
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eed2e2c21ca3a30800000000000000
+      internalID: 4195878398346522253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d1212f61910920800000000000000
+      internalID: 2954802737015019220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d2724d6a559730800000000000000
+      internalID: 4005206868928682247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcdc10fe3bce560800000000000000
+      internalID: 7344442931443256642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_135
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ea4887f4bc2cf0800000000000000
+      internalID: -275646501939910612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59766f8de175b00800000000000000
+      internalID: 817155774586787247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_137
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084cf6079c5b7dae0800000000000000
+      internalID: -1524550072062196608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_138
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164c13b60a8191a0800000000000000
+      internalID: -6804505800600697325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc16e9b286b156150800000000000000
+      internalID: 5865124223942287820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_140
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fefef19393482a80800000000000000
+      internalID: -8491462796318408976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_141
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0376e65779b50080800000000000000
+      internalID: -9221760739761032437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_142
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176ff9b5a136b65d0800000000000000
+      internalID: -3068249756265351567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_143
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 91
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12618db9d5543e7c0800000000000000
+      internalID: -4043311772099668447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19344084460fc53c0800000000000000
+      internalID: -4369353224960588911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39fe946f8bf53d0800000000000000
+      internalID: -3215648240977341442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_146
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2224b267592c1a70800000000000000
+      internalID: 8798953227269972524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df34b0d56d234d00800000000000000
+      internalID: 955657461249097688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_148
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c8a2530d9ff6c60800000000000000
+      internalID: 7813738551151594590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cef7344f58f75650800000000000000
+      internalID: 6221714498285731526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_150
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d3fdd43468f17c0800000000000000
+      internalID: -4098409512256455286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_151
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1d47a3d92b33a0800000000000000
+      internalID: -6684703232879681599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422688aa4fd2cc90800000000000000
+      internalID: -7150907746562989499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c952db7d7a3f5e0800000000000000
+      internalID: -1876972074650198889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07901c18b60c700e0800000000000000
+      internalID: -2303661116405773968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_155
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e21f58acc4c2f0800000000000000
+      internalID: -953412197574057166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_156
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4066003baddbcc0800000000000000
+      internalID: -3693555657033251617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_157
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d626952cdf4b30800000000000000
+      internalID: 4273876625388918964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_158
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ddd40995644bb0800000000000000
+      internalID: -4952721982314654542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_159
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 78
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e08188021e4b30800000000000000
+      internalID: 4273372924162926931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a451b49be4bcc640800000000000000
+      internalID: 5101651401808893094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e132ff508a3070800000000000000
+      internalID: 8086917230470751476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_162
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680594e9f702c570800000000000000
+      internalID: 8485353417782659170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_163
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd05ea4d748c870800000000000000
+      internalID: 8703285258676658172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_164
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546007457d47f87a0800000000000000
+      internalID: -6372746479522544059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_165
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17df8956e141590800000000000000
+      internalID: -7704499640816799309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_166
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f733cd484879a0800000000000000
+      internalID: -6235154185269544790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_167
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471480e4f559b1e0800000000000000
+      internalID: -2181618034257160373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aa2170841ce2920800000000000000
+      internalID: 2967521719584205376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_169
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42a2722ae6ce580800000000000000
+      internalID: -8796534329440590610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_170
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e39136f0044c20800000000000000
+      internalID: 3189675493478884498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_171
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03e6b8504da5f50800000000000000
+      internalID: 6871037301786292400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_172
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c027bf1d0883dc60800000000000000
+      internalID: 7841760966130213056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b2fcd9305c9d110800000000000000
+      internalID: 1286275787914160988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_174
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b77f508d68f250800000000000000
+      internalID: 5978648903459255873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_175
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 65
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be53553e9e335bf0800000000000000
+      internalID: -336856697902244171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f5740d84896350800000000000000
+      internalID: 6010480918902731306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc13995a7c4d430800000000000000
+      internalID: 3806887099088621554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_178
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08969773e4cdc9dd0800000000000000
+      internalID: -2477863466464351872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_179
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f72ebdfdff51120800000000000000
+      internalID: 2384092914694389589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_180
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ded44986e8a6f0800000000000000
+      internalID: -673034667051526684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_181
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c8fa987ef4b560800000000000000
+      internalID: 7328762287588165200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe47dbe825b0080800000000000000
+      internalID: -9220185039093568538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_183
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4e3cef8f4c3600800000000000000
+      internalID: 449321542392630844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_184
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07330a9f2e341280800000000000000
+      internalID: -9073558975076419827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_185
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445dcac9610c9d90800000000000000
+      internalID: -7089790159502355386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_186
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2792fed37b85980d0800000000000000
+      internalID: -3420104897969837710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_187
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af8361c4de60a00800000000000000
+      internalID: 722525701285673606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_188
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2003190682cec9680800000000000000
+      internalID: -8746856718097371134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_189
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38999d1d0f94e00800000000000000
+      internalID: 1029618773920416733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_190
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0695c98f1dd8ed0800000000000000
+      internalID: -2410039359868149516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_191
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 52
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eca7253609f1630800000000000000
+      internalID: 3899994558586080829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164cd140abebe6c0800000000000000
+      internalID: -4112934761140566504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_193
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4324f3b79fed14e0800000000000000
+      internalID: -2009186423899151542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_194
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22facb5014906a0f0800000000000000
+      internalID: -1106186483599102174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_195
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b090ccbf26aed1a0800000000000000
+      internalID: -6782801264812977994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_196
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831fea41c7a9ddf0800000000000000
+      internalID: -154908263539862644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_197
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6835a1cbe29120800000000000000
+      internalID: 2419255166784531753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_198
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825659ada5144f60800000000000000
+      internalID: 8017557072240857740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_199
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917749372c5a5920800000000000000
+      internalID: 2979795426993467797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_200
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9165267964faf0800000000000000
+      internalID: -363549713755955700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_201
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234013011d8537e0800000000000000
+      internalID: -1786366572977175775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_202
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414c23b3ac4d13750800000000000000
+      internalID: 6283036920200217620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_203
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb559a1460cd2180800000000000000
+      internalID: -9138436532689609746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_204
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb478bbfc99b410800000000000000
+      internalID: 1493397356395412288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_205
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9302e8f2a78f2e1d0800000000000000
+      internalID: -3322820371378462663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_206
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469ff6f030193e30800000000000000
+      internalID: 4483632706512459330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_207
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 39
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2f94a3ed9b4880800000000000000
+      internalID: -8625627060253020245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dcb95abe4d4e450800000000000000
+      internalID: 6117248302436830582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_209
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0070a17e11876d0800000000000000
+      internalID: -2992622268115910459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_210
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731b145a79a2c930800000000000000
+      internalID: 4162075348505924479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3f486de8b356f0800000000000000
+      internalID: -697010187515511293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_212
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940105753d8940c0800000000000000
+      internalID: -4590983084391725921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_213
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec24c9792b0fc70800000000000000
+      internalID: 9002892019345051385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_214
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f244ff250b258600800000000000000
+      internalID: 469829037409452788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_215
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c487bdf3c17dd0800000000000000
+      internalID: -2489993624486099606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_216
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa7b5d21624f57c0800000000000000
+      internalID: -4080469752234149213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_217
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec370cd2d6faa8bc0800000000000000
+      internalID: -3780016053770226738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_218
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c710eabb955240800000000000000
+      internalID: 4779897806449526888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_219
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2a02c1d1b5e260800000000000000
+      internalID: 7126297499845406177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_220
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709eab263381e7a0800000000000000
+      internalID: -6349649730931355521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_221
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa32ca7ff8656dd0800000000000000
+      internalID: -2493471372194202881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_222
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3e18f4c6d0d73c0800000000000000
+      internalID: -4360314105383230498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_223
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 26
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e91035c3b933c0800000000000000
+      internalID: -4379271503144162882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf99f23cc874700800000000000000
+      internalID: 524542651557083826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_225
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb928a9ff977f30800000000000000
+      internalID: 4573299841235008941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_226
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da279561993dca2e0800000000000000
+      internalID: -2113081470685187411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_227
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8350d247969a01de0800000000000000
+      internalID: -1364404416707492552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_228
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbc374d6f04a430800000000000000
+      internalID: 3793173748173815713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_229
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282cc792da2e41a70800000000000000
+      internalID: 8796905205514683010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_230
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88f05536799c510800000000000000
+      internalID: 1569952397999966378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_231
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1fec360e6e65790800000000000000
+      internalID: -7541586674563747365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_232
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb89033874faf20800000000000000
+      internalID: 3436043669488581477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_233
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039dd83c5c8ba69a0800000000000000
+      internalID: -6238971174239479504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_234
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8c0166260a77c0800000000000000
+      internalID: -4072936151096456277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_235
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64501543318f590800000000000000
+      internalID: -7640335652415519002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_236
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e256d50d196c00800000000000000
+      internalID: 894277911917553162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_237
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a983fc55c03720800000000000000
+      internalID: 2823973969374849334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_238
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc73c3123b1a560800000000000000
+      internalID: 7323331424406720310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_239
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 13
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2335444d1c117e0800000000000000
+      internalID: -1796441658920586498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92300794a8e4eeb50800000000000000
+      internalID: 6624318457753109289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_241
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c44d68d89f08e0800000000000000
+      internalID: -1724992076946030591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_242
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a65f192a8348f0800000000000000
+      internalID: -557450019639744516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_243
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c04610825d8770800000000000000
+      internalID: 8614632372312261721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_244
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029bc4a7f7cf2ef0800000000000000
+      internalID: -130665997734800882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_245
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448690dce58ad000800000000000000
+      internalID: 61508797081224267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_246
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31b3e26fcb33c500800000000000000
+      internalID: 415241352551575869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_247
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454e442caca5cc90800000000000000
+      internalID: -7150118978037332661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_248
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eaa4194bfb28f30800000000000000
+      internalID: 4576430953614454295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_249
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970fb8f12c9b7a7a0800000000000000
+      internalID: -6365915304860848007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_250
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421640b4752cb2f40800000000000000
+      internalID: 5704867033171386660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_251
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d156fb13383b30800000000000000
+      internalID: 4267216842123236843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_252
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487656c49ca1100d0800000000000000
+      internalID: -3458453586971367548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_253
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a279a389ad6200800000000000000
+      internalID: 174982343485989887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_254
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936560e36f9c3d10800000000000000
+      internalID: 2106733977017869210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHeads_255
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6034ab0b6175dcf0800000000000000
+      internalID: -228151501541592977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
