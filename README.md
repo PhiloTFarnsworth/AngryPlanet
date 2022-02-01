@@ -11,7 +11,7 @@ general information about Angry Planet.
 
 ## Game Manual
 
-![Start!](start.png)
+![Start](Start.png)
 
 Goo Gods: Angry Planet, is a 2-D turn-based game where you are beamed to an alien planet teeming with hostile flora and fauna, and you must collect a certain amount of obtanium to be beamed off the planet. The planet itself produces an immune response when you land, generating monsters and plants to thwart your plans. You must navigate the ever expanding bramble, avoid the dangerous fiends and gather a sack full of sparking rocks if you want to make it off this planet.
 
