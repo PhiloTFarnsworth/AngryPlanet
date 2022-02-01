@@ -1,5 +1,7 @@
 # Goo Gods: Angry Planet
 
+![Start Screen](AngryPlanet.png)
+
 ## Demonstration
 A demostration of the general game loop and how it appears in action can be seen [on Youtube](https://youtu.be/63PGYSQRtuU).  This a demonstration of a slightly outdated version for submission as a final project for CS50's Intro to game development, but most changes were between version are cosmetic or otherwise are refinements to the underlying scripting.
 
@@ -9,7 +11,11 @@ general information about Angry Planet.
 
 ## Game Manual
 
+![Start!](start.png)
+
 Goo Gods: Angry Planet, is a 2-D turn-based game where you are beamed to an alien planet teeming with hostile flora and fauna, and you must collect a certain amount of obtanium to be beamed off the planet. The planet itself produces an immune response when you land, generating monsters and plants to thwart your plans. You must navigate the ever expanding bramble, avoid the dangerous fiends and gather a sack full of sparking rocks if you want to make it off this planet.
+
+![Flowers](FlowerStrip.png)
 
 ## Game Controls
 
@@ -33,6 +39,8 @@ Below the character information panel on the right side of screen is an ability 
     Leaves fire clouds behind for 2 turns, which damage any token within it 10 health
     per turn.
 
+![Flowers](FlowerStrip2.png)
+
 ## Hazards
 
 The plant life on planetside is not only known for its caustic and noxious gas emissions, they also spread rampantly once their flower has grown. While plants can be damaged, even a mighty fireball can only delay their spread across the landscape. Meanwhile, monsters, expelled from the planets crust upon your intrusion, attack players from neighboring tiles. While they are not very bright, they are durable enough to impede your progress and whittle down your health.
@@ -52,6 +60,8 @@ These stats affect both their regular attacks, as well as their special abilitie
 ## Pickups
 
 Obtainium is collected by moving onto a tile with a sparking rock ontop of it. The player receives 5 obtanium per pickup.
+
+![Flowers](FlowerStrip3.png)
 
 ## Victory
 
